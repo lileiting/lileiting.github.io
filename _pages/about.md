@@ -29,7 +29,7 @@ Leiting Li gained his B.S. (2010) and Ph.D. (2016) in Nanjing Agricultural Unive
 
 **(First/co-first authored publications)**
 
-1.	**Li, L.**, Song, J., Zhang, M., Iqbal, S., Li, Y., Zhang, H., and Zhang, H. (2022). A near complete genome assembly of chia assists in identification of key fatty acid desaturases in developing seeds. Front in Plant Sci, 2022.08.15.504044.
+1.	**Li, L.**, Song, J., Zhang, M., Iqbal, S., Li, Y., Zhang, H., and Zhang, H. (2023). A near complete genome assembly of chia assists in identification of key fatty acid desaturases in developing seeds. Front in Plant Sci, 2022.08.15.504044.
 2.	**Li, L.**<sup>#</sup>, Li, M.<sup>#</sup>, Wu, J., Yin, H., Dunwell, J.M., and Zhang, S. (2022). Genome-wide identification and comparative evolutionary analysis of sorbitol metabolism pathway genes in four Rosaceae species and three model plants. BMC Plant Biol 22:341.
 3.	**Li, L.**, and Zhang, H. (2022). The broomcorn millet genome. In: Underutilised Crop Genomes--Chapman, M.A., ed. Switzerland: Springer Nature. 1-17. (In publication)
 4.	**Li, L.**, Deng, C.H., Knabel, M., Chagne, D., Kumar, S., Sun, J., Zhang, S., and Wu, J. (2017). Integrated high-density consensus genetic map of Pyrus and anchoring of the 'Bartlett' v1.0 (Pyrus communis) genome. DNA Res 24:289-301.
