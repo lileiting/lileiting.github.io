@@ -34,7 +34,7 @@ redirect_from:
 
 1.	**Li, L.**, Song, J., Zhang, M., Iqbal, S., Li, Y., Zhang, H., and Zhang, H. (2023). A near complete genome assembly of chia assists in identification of key fatty acid desaturases in developing seeds. Front in Plant Sci, 2022.08.15.504044.
 2.	**Li, L.**<sup>#</sup>, Li, M.<sup>#</sup>, Wu, J., Yin, H., Dunwell, J.M., and Zhang, S. (2022). Genome-wide identification and comparative evolutionary analysis of sorbitol metabolism pathway genes in four Rosaceae species and three model plants. BMC Plant Biol 22:341.
-3.	**Li, L.**, and Zhang, H. (2022). The broomcorn millet genome. In: Underutilised Crop Genomes--Chapman, M.A., ed. Switzerland: Springer Nature. 1-17. (In publication)
+3.	**Li, L.**, and Zhang, H. (2022). The broomcorn millet genome. In: Underutilised Crop Genomes--Chapman, M.A., ed. Switzerland: Springer Nature. 1-17. 
 4.	**Li, L.**, Deng, C.H., Knabel, M., Chagne, D., Kumar, S., Sun, J., Zhang, S., and Wu, J. (2017). Integrated high-density consensus genetic map of Pyrus and anchoring of the 'Bartlett' v1.0 (Pyrus communis) genome. DNA Res 24:289-301.
 5.	Qin, M.F. <sup>#</sup>, **Li, L.T.** <sup>#</sup>, Singh, J., Sun, M.Y., Bai, B., Li, S.W., Ni, J.P., Zhang, J.Y., Zhang, X., Wei, W.L., et al. (2022). Construction of a high-density bin-map and identification of fruit quality-related quantitative trait loci and functional genes in pear. Hortic Res 9:uhac141.
 6.	Richards, S.M. <sup>#</sup>, **Li, L.** <sup>#</sup>, Breen, J., Hovhannisyan, N., Estrada, O., Gasparyan, B., Gilliham, M., Smith, A., Cooper, A., and Zhang, H. (2022). Recovery of chloroplast genomes from medieval millet grains excavated from the Areni-1 cave in southern Armenia. Sci Rep 12:15164.
